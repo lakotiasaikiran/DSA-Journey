@@ -20,6 +20,7 @@ My daily DSA progress will be updated here.
 | [0088-merge-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -30,6 +31,7 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 ## Math
 |  |
@@ -125,12 +127,14 @@ My daily DSA progress will be updated here.
 | ------- |
 | [0053-maximum-subarray](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
+| [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -152,9 +156,14 @@ My daily DSA progress will be updated here.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Linked List
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
