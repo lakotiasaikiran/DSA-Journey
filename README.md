@@ -19,6 +19,7 @@ My daily DSA progress will be updated here.
 | [0136-single-number](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
+| [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -114,4 +115,32 @@ My daily DSA progress will be updated here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
+## Merge Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
+## Bucket Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
+## Radix Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 <!---LeetCode Topics End-->
