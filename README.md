@@ -23,6 +23,7 @@ My daily DSA progress will be updated here.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
@@ -87,6 +88,7 @@ My daily DSA progress will be updated here.
 | ------- |
 | [0054-spiral-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0063-unique-paths-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Simulation
 |  |
 | ------- |
@@ -125,6 +127,7 @@ My daily DSA progress will be updated here.
 | [0033-search-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
@@ -143,12 +146,14 @@ My daily DSA progress will be updated here.
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
