@@ -24,6 +24,7 @@ My daily DSA progress will be updated here.
 | [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
@@ -130,6 +131,7 @@ My daily DSA progress will be updated here.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0493-reverse-pairs](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
@@ -143,6 +145,7 @@ My daily DSA progress will be updated here.
 | [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Sorting
@@ -167,6 +170,7 @@ My daily DSA progress will be updated here.
 | [0023-merge-k-sorted-lists](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -207,20 +211,24 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0493-reverse-pairs) |
 ## Segment Tree
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0493-reverse-pairs) |
 ## Treap
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0327-count-of-range-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
