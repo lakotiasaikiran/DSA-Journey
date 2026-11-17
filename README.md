@@ -125,6 +125,7 @@ My daily DSA progress will be updated here.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
@@ -139,10 +140,12 @@ My daily DSA progress will be updated here.
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Bucket Sort
@@ -161,9 +164,14 @@ My daily DSA progress will be updated here.
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
+## Tournament Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
