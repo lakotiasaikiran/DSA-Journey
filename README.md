@@ -13,6 +13,7 @@ My daily DSA progress will be updated here.
 | [0033-search-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0039-combination-sum) |
+| [0053-maximum-subarray](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0078-subsets) |
@@ -110,6 +111,7 @@ My daily DSA progress will be updated here.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0063-unique-paths-ii) |
 ## Binary Search
 |  |
@@ -121,6 +123,7 @@ My daily DSA progress will be updated here.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Sorting
