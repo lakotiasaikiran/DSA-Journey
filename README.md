@@ -37,6 +37,7 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0050-powx-n) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -174,4 +175,8 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
