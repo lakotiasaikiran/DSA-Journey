@@ -16,6 +16,7 @@ My daily DSA progress will be updated here.
 | [0063-unique-paths-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0136-single-number) |
+| [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
 | [2521-distinct-prime-factors-of-product-of-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/2521-distinct-prime-factors-of-product-of-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -108,4 +109,5 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
