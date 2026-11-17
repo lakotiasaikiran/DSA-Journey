@@ -69,6 +69,7 @@ My daily DSA progress will be updated here.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 ## Greedy
 |  |
 | ------- |
@@ -118,10 +119,12 @@ My daily DSA progress will be updated here.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -130,6 +133,7 @@ My daily DSA progress will be updated here.
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -143,4 +147,8 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
+## Linked List
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
