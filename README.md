@@ -16,6 +16,7 @@ My daily DSA progress will be updated here.
 | [0054-spiral-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0063-unique-paths-ii) |
 | [0078-subsets](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0078-subsets) |
+| [0088-merge-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
@@ -69,6 +70,7 @@ My daily DSA progress will be updated here.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 ## Greedy
 |  |
@@ -124,6 +126,7 @@ My daily DSA progress will be updated here.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
