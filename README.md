@@ -23,6 +23,7 @@ My daily DSA progress will be updated here.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
@@ -127,6 +128,7 @@ My daily DSA progress will be updated here.
 | [0033-search-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0704-binary-search](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -138,6 +140,7 @@ My daily DSA progress will be updated here.
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Sorting
 |  |
@@ -160,6 +163,7 @@ My daily DSA progress will be updated here.
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0912-sort-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0912-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -195,4 +199,20 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0215-kth-largest-element-in-an-array) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Segment Tree
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Ordered Set
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Treap
+|  |
+| ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 <!---LeetCode Topics End-->
