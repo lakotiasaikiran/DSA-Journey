@@ -81,6 +81,7 @@ My daily DSA progress will be updated here.
 | ------- |
 | [0011-container-with-most-water](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0148-sort-list) |
 ## Greedy
@@ -111,6 +112,7 @@ My daily DSA progress will be updated here.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0014-longest-common-prefix) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 ## Trie
 |  |
 | ------- |
@@ -233,4 +235,20 @@ My daily DSA progress will be updated here.
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0327-count-of-range-sum](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0327-count-of-range-sum) |
 | [0493-reverse-pairs](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0493-reverse-pairs) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kiran-dark-Coder/DSA-Journey/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
